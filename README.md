@@ -29,6 +29,7 @@ pip install pyperclip pygame requests
    - `font.otf`
    - `config.json`
    - `bg.png`
+   - `icon.ico`
 
 ## 💻 Usage
 
